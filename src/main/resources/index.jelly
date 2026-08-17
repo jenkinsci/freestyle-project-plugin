@@ -1,4 +1,9 @@
 <?jelly escape-by-default='true'?>
 <div>
-    TODO
+    <p>
+        This plugin provides the classic <b>Freestyle project</b> job type, letting you configure
+        a build by combining any number of source code management (SCM) systems, build triggers,
+        build steps, and post-build actions — all through the standard job configuration UI rather
+        than a pipeline script.
+    </p>
 </div>
