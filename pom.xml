@@ -10,7 +10,7 @@
 
   <groupId>io.jenkins.plugins</groupId>
   <artifactId>freestyle-project</artifactId>
-  <version>1.0</version>
+  <version>${changelist}</version>
   <packaging>hpi</packaging>
   <name>FreeStyle Project Plugin</name>
   <description>FreeStyle Project Plugin</description>
