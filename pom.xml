@@ -51,18 +51,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.jenkins-ci.plugins</groupId>
-      <artifactId>structs</artifactId>
-    </dependency>
-    <dependency>
       <groupId>org.jenkins-ci.main</groupId>
       <artifactId>jenkins-test-harness</artifactId>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jenkins-ci</groupId>
-      <artifactId>version-number</artifactId>
-      <version>1.14</version>
     </dependency>
   </dependencies>
 
